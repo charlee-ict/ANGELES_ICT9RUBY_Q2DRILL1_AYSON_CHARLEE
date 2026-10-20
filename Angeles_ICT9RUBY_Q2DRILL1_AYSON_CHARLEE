@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beginner's Guide to Pickleball</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="banner">
+    <!-- Header Title Box -->
+    <div class="title-box">
+      <span class="emoji">🏓</span>
+      <h1>Beginner's Guide to Pickleball</h1>
+    </div>
+
+    <!-- Center Illustration/Icon Container -->
+    <div class="center-graphic">
+      <div class="paddle-ball-icon">💥🏓</div>
+    </div>
+
+    <!-- Cards Container -->
+    <div class="cards-container">
+      
+      <!-- Card 1 -->
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">📒</span>
+          <h2>Basic Rules</h2>
+        </div>
+        <ul class="card-list">
+          <li>Serve diagonally</li>
+          <li>Double bounce rule</li>
+          <li>No volley zone</li>
+          <li>Scoring</li>
+        </ul>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🥅</span>
+          <h2>Pickleball Equipment</h2>
+        </div>
+        <ul class="card-list">
+          <li>Paddle</li>
+          <li>Plastic ball</li>
+          <li>Net</li>
+          <li>Court</li>
+        </ul>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="card">
+        <div class="card-header">
+          <span class="card-icon">🎯</span>
+          <h2>Basic Techniques</h2>
+        </div>
+        <ul class="card-list">
+          <li>Forehand and backhand strokes</li>
+          <li>Serving techniques</li>
+          <li>Dinking</li>
+          <li>Positioning</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>
